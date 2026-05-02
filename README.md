@@ -19,7 +19,7 @@ const roussel = {
   role:        "Full-Stack Developer",
   location:    "Madagascar 🇲🇬",
   status:      "Open to opportunities",
-  languages:   ["TypeScript", "JavaScript", "Python"],
+  languages:   ["Python", "JavaScript", "TypeScript", "C", "C++", "Java"],
   focus:       ["Platforms & Marketplaces", "Creative / Cultural Tech", "Enterprise Tools"],
   devStyle:    ["Clean code & solid architecture", "Data-driven & performance-obsessed"],
   driven_by:   "Building things that have social & cultural impact",
@@ -35,7 +35,7 @@ const roussel = {
 
 <div align="center">
 
-[![Tranonk'Art](https://img.shields.io/badge/🎨_Tranonk'Art-Cultural_Art_Platform-6366F1?style=for-the-badge)](https://github.com/roussel-rakotonirina)
+[![Tranonk'Art](https://img.shields.io/badge/🎨_Tranonk'Art-Cultural_Art_Platform-6366F1?style=for-the-badge)](https://github.com/roussel-jrakoto)
 
 </div>
 
@@ -47,34 +47,52 @@ const roussel = {
 - 💳 Secure donation system to support creators directly
 - 🌍 Built to scale — designed for the African creative ecosystem
 
-**Stack used:** `TypeScript` · `React` · `Node.js` · `PostgreSQL` · `Stripe`
+**Stack used:** `TypeScript` · `React` · `NestJS` · `PostgreSQL` · `Prisma`
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### Frontend
+### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-### Database & Infra
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
+
+### 📊 Data & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+
+### ⚙️ DevOps & Tooling
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
@@ -82,14 +100,20 @@ const roussel = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=roussel-jrakoto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roussel-jrakoto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=roussel-jrakoto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roussel-jrakoto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=roussel-jrakoto&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roussel-jrakoto&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
