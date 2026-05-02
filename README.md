@@ -82,14 +82,14 @@ const roussel = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=roussel-rakotonirina&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roussel-rakotonirina&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=roussel-jrakoto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roussel-jrakoto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=roussel-rakotonirina&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=roussel-jrakoto&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -114,6 +114,6 @@ If you're building something with impact, or looking for a developer who takes b
 
 *"Code is the medium. Impact is the goal."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=roussel-rakotonirina&color=6366F1&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=roussel-jrakoto&color=6366F1&style=flat-square&label=Profile+Views)
 
 </div>
