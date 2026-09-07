@@ -19,7 +19,7 @@ I enjoy understanding how systems work as a whole — not just writing individua
 My current direction is to grow from full-stack development toward **Software Engineering and Systems Architecture**, while exploring how **AI and agentic systems** can be integrated into real products.
 
 ```typescript
-const roussel = {
+let roussel = {
   role: "Full-Stack Developer",
   location: "Madagascar 🇲🇬",
 
